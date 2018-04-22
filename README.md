@@ -26,3 +26,7 @@ I built this to learn responsive.gs framework and formalize library.
 1. Responsive.gs
 2. Normalize.css
 3. Formalize.css
+
+### Tool Used for Compiling andd Minification:
+[Koala](https://github.com/oklai/koala)
+
