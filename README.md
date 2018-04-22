@@ -2,7 +2,7 @@
 <img src="assets/img/brand.png" alt="logo" width="150px"/>
 </p>
 
-# template-x
+# Template-x
 A fully responsive, simple blog template built using responsive.gs
 
 **Image Credit:** 
